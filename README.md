@@ -1,7 +1,3 @@
-Testado em:
-- Linux Mint 21 (Ubuntu), 26/04/2023
-- PopOS 22.04 (Ubuntu), 27/04/2023
-
 # Metasploitable3 e Detection Lab
 Criado para adição do [Metasploitable3](https://github.com/rapid7/metasploitable3) (seus logs, e telemetrias) ao [DetectionLab](https://detectionlab.network/).
 
@@ -51,3 +47,7 @@ Estou tentando configurar o envio dos logs de todas as aplicações vulneráveis
     SMB
     Remote Desktop
     PHPMyAdmin
+
+Testado em:
+- Linux Mint 21 (Ubuntu), 26/04/2023
+- PopOS 22.04 (Ubuntu), 27/04/2023
