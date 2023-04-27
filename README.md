@@ -1,2 +1,36 @@
+
 # Metasploitable3 e Detection Lab
-Ainda em construcao
+Criado para adição do [Metasploitable3](https://github.com/rapid7/metasploitable3) (seus logs, e telemetrias) ao [DetectionLab](https://detectionlab.network/).
+
+# Introdução
+O metasploitable é uma máquina com serviços propositalvemente vulneráveis. Existem várias versões dele, eu escolhi a terceira por ser a [mais nova](https://github.com/rapid7/metasploitable3/wiki#differences-between-metasploitable-3-and-the-older-versions).
+O DetectionLab é um repositório com várias scripts que automatizam a criação de um ambiente todo configurado com ferramentas de logging e detecção.
+
+# Combo
+Combinando esses propósitos criei um ambiente de ataque x detecção. 
+Os logs de aplicação são enviados ao splunk e as telemetrias da máquina são coletadas pelo OSQuery.
+
+# Metasploitable3 Logging (spoiler)
+Estou tentando configurar o envio dos logs de todas as aplicações vulneráveis. Portanto segue a lista de quais já consigo:
+
+    GlassFish
+    Apache Struts ✅
+    Tomcat
+    Jenkins
+    IIS FTP
+    IIS HTTP
+    psexec
+    SSH
+    WinRM
+    chinese caidao
+    ManageEngine
+    ElasticSearch
+    Apache Axis2
+    WebDAV
+    SNMP
+    MySQL
+    JMX
+    Wordpress
+    SMB
+    Remote Desktop
+    PHPMyAdmin
