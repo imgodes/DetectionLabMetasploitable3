@@ -23,7 +23,7 @@ IP público: DHCP (vai pegar um IP da sua rede).
 Combinando esses propósitos criei um ambiente de ataque x detecção. 
 Os logs de aplicação são enviados ao splunk e as telemetrias da máquina são coletadas pelo OSQuery.
 
-# Metasploitable3 Logging (spoiler)
+# Metasploitable3 Logging
 Estou tentando configurar o envio dos logs de todas as aplicações vulneráveis, para que a exploração de cada vulnerabilidade possa ser acompanhada nos logs. Portanto segue a lista de quais já consigo:
 
     GlassFish
