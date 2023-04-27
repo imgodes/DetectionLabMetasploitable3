@@ -1,3 +1,6 @@
+Testado em:
+- Linux Mint 21 (Ubuntu), 26/04/2023
+- PopOS 22.04 (Ubuntu), 27/04/2023
 
 # Metasploitable3 e Detection Lab
 Criado para adição do [Metasploitable3](https://github.com/rapid7/metasploitable3) (seus logs, e telemetrias) ao [DetectionLab](https://detectionlab.network/).
