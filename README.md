@@ -7,7 +7,7 @@ O metasploitable é uma máquina com serviços propositalvemente vulneráveis. E
 O DetectionLab é um repositório com várias scripts que automatizam a criação de um ambiente todo configurado com ferramentas de logging e detecção.
 
 # TLTR
-*Com o detectionlab já provisionado use os comandos abaixo: 
+**Com o detectionlab já INSTALADO e funcionando use os comandos abaixo:**
 ```
 git clone https://github.com/imgodes/DetectionLabMetasploitable3.git
 cd DetectionLabMetasploitable3
