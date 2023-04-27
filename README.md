@@ -13,6 +13,12 @@ git clone https://github.com/imgodes/DetectionLabMetasploitable3.git
 cd DetectionLabMetasploitable3
 vagrant up
 ```
+Configurações de rede do metasploitable:
+
+```
+IP estático: 192.168.56.210
+IP público: DHCP (vai pegar um IP da sua rede).
+```
 
 # Combo
 Combinando esses propósitos criei um ambiente de ataque x detecção. 
