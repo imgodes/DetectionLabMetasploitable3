@@ -2,7 +2,7 @@
 Criado para adição do [Metasploitable3](https://github.com/rapid7/metasploitable3) (seus logs, e telemetrias) ao [DetectionLab](https://detectionlab.network/).
 
 # Introdução
-O metasploitable é uma máquina com serviços propositalvemente vulneráveis. Existem várias versões dele, eu escolhi a terceira por ser a [mais nova](https://github.com/rapid7/metasploitable3/wiki#differences-between-metasploitable-3-and-the-older-versions).
+O metasploitable é uma máquina com serviços propositalmente vulneráveis. Existem várias versões dele, eu escolhi a terceira por ser a [mais nova](https://github.com/rapid7/metasploitable3/wiki#differences-between-metasploitable-3-and-the-older-versions).
 O DetectionLab é um repositório com várias scripts que automatizam a criação de um ambiente todo configurado com ferramentas de logging e detecção.
 
 # TLTR
