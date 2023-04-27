@@ -6,6 +6,14 @@ Criado para adição do [Metasploitable3](https://github.com/rapid7/metasploitab
 O metasploitable é uma máquina com serviços propositalvemente vulneráveis. Existem várias versões dele, eu escolhi a terceira por ser a [mais nova](https://github.com/rapid7/metasploitable3/wiki#differences-between-metasploitable-3-and-the-older-versions).
 O DetectionLab é um repositório com várias scripts que automatizam a criação de um ambiente todo configurado com ferramentas de logging e detecção.
 
+# TLTR
+*Com o detectionlab já provisionado use os comandos abaixo: 
+```
+git clone https://github.com/imgodes/DetectionLabMetasploitable3.git
+cd DetectionLabMetasploitable3
+vagrant up
+```
+
 # Combo
 Combinando esses propósitos criei um ambiente de ataque x detecção. 
 Os logs de aplicação são enviados ao splunk e as telemetrias da máquina são coletadas pelo OSQuery.
